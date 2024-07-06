@@ -1,0 +1,16 @@
+.navbar-expand-sm{
+    justify-content: space-between !important;
+}
+
+.main{
+    padding: 10px;
+}
+
+.header{
+    position: fixed;
+    width: 100%;
+    top:0;
+    left: 0;
+    background-color: #f0f0f0;
+    z-index: 99;
+}
